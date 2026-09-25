@@ -94,6 +94,8 @@ CloudTrail (Audit) → Log Everything
 
 ## Architecture Diagram
 ![Architecture](architecture.png)
+<img width="2271" height="3180" alt="diagram" src="https://github.com/user-attachments/assets/46ffc7c3-5de4-478f-8753-f7ffcf991b7a" />
+
 
 ## What I Learned
 1. Authentication vs Authorization differences
